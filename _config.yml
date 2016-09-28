@@ -5,7 +5,7 @@ description:        "Death inspires me like a dog inspires a rabbit."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/sadmac.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://softuma.github.io/deathware
